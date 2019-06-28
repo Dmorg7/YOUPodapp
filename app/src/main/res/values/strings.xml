@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">YOUPod</string>
+    <string name="title_YOUPod">YOUPod</string>
+    <string name="title_YOUFeed">YOUFeed</string>
+    <string name="title_YOURPod">YOURPod</string>
+    <string name="title_subscribe">Subscribe</string>
+    <string name="todo">TODO</string>
+    <string name="text">Text</string>
+    <string name="podcast_1">Podcast 1</string>
+    <string name="this_is_the_first_podcast_audio_file">This is the first Podcast Audio File</string>
+    <string name="this_is_the_second_podcast_audio_file">This is the second Podcast Audio File</string>
+    <string name="this_is_the_third_podcast_audio_file">This is the third Podcast Audio File</string>
+    <string name="the_get_the_most_out_of_youpod_subscribe_today">The get the most out of YOUPod subscribe today</string>
+    <string name="name">Name:</string>
+    <string name="password">Password:</string>
+    <string name="send">Send</string>
+    <string name="review_of_the_day">Review of the Day</string>
+    <string name="news">News</string>
+    <string name="the_football_weekly_pod_squad_bring_you_a_twice_weekly_dose_of_puns_and_punditry_news_and_analysis_from_the_premier_league_and_beyond_throughout_the_season_join_max_rushden_barry_glendenning_sid_lowe_and_the_rest_of_the_pod_squad_every_monday_and_thursday_throughout_the_season_for_your_dose_of_puns_and_punditry_and_the_best_analysis_of_the_premier_league_european_football_and_beyond">The Football Weekly pod squad bring you a twice-weekly dose of puns and punditry, news and analysis from the Premier League and beyond throughout the season. Join Max Rushden, Barry Glendenning, Sid Lowe and the rest of the pod squad every Monday and Thursday throughout the season for your dose of puns and punditry and the best analysis of the Premier League, European football, and beyond.</string>
+    <string name="uk_politics_weekly_the_guardian_s_heather_stewart_and_pippa_crerar_are_joined_every_week_by_commentators_experts_and_politicians_to_unpack_the_biggest_stories_in_politics">UK Politics Weekly The Guardian’s Heather Stewart and Pippa Crerar are joined every week by commentators, experts and politicians to unpack the biggest stories in politics.</string>
+    <string name="science_weekly_the_award_winning_science_weekly_podcast_is_the_best_place_to_learn_about_the_big_discoveries_and_debates_in_biology_chemistry_physics_and_sometimes_even_maths_the_guardian_science_team_nicola_davis_ian_sample_and_hannah_devlin_meet_the_great_thinkers_and_doers_in_science_and_technology_recent_shows_include_the_neuroscience_of_decision_making">Science Weekly The award-winning Science Weekly podcast is the best place to learn about the big discoveries and debates in biology, chemistry, physics and sometimes even maths. The Guardian science team - Nicola Davis, Ian Sample, and Hannah Devlin - meet the great thinkers and doers in science and technology. Recent shows include the neuroscience of decision-making</string>
+</resources>
